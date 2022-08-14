@@ -5,6 +5,6 @@
 - 📫 How to reach me 
 
 <!---
-Sujin-Ahn4813/Sujin-Ahn4813 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sujin-Ahn/Sujin-Ahn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
